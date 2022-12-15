@@ -1,5 +1,7 @@
 ### Hi there 👋 # 🙋 Welcome ![Visitors](https://visitor-badge.glitch.me/badge?page_id=AlwaysWannaPower) 
 
+![cw](https://www.codewars.com/users/AlwaysWannaPower/badges/large)
+
 <!--
 **AlwaysWannaPower/AlwaysWannaPower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
