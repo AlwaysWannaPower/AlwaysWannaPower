@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-# 🙋 Welcome ![Visitors](https://visitor-badge.glitch.me/badge?page_id=AlwaysWannaPower) 
+# 🙋 Welcome 
 
 ![cw](https://www.codewars.com/users/AlwaysWannaPower/badges/large)
 
@@ -12,6 +12,8 @@
 
 ![EnjiRouz GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlwaysWannaPower&count_private=true&hide=contribs&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlwaysWannaPower&count_private=true&hide=tsql&langs_count=7&theme=radical&layout=compact)
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=AlwaysWannaPower) 
 
 <!-- ## 🎮 Current project -->
 <!-- ![demo-min](https://user-images.githubusercontent.com/26218291/102014859-08ed3580-3d7a-11eb-8d2f-48e3f790f807.gif) -->
