@@ -1,5 +1,3 @@
-### Hi there 👋 
-
 # 🙋 Welcome 
 
 ![cw](https://www.codewars.com/users/AlwaysWannaPower/badges/large)
